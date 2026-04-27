@@ -1,0 +1,6 @@
+@Histoire.Api_HostAddress = http://localhost:5073
+
+GET {{Histoire.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
